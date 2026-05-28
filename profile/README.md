@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="../Momi-Logo.png" alt="MOMI logo" width="220">
-</p>
-# MOMI
-
 MOMI — бренд товаров детской гигиены и ухода.
 
 Официальный сайт: https://momirussia.ru/
